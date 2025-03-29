@@ -5,17 +5,24 @@ Student Mental Health Risk Analysis Project (DSC510)
 
 This project analyzes mental health risk among Gen Z university students using survey data, with the goal of identifying undiagnosed high-risk individuals and improving access to treatment through data-driven insights and interventions.
 
-📊 **Dashboard Link:** [View Interactive Tableau Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
+**Dashboard Link:** [View Interactive Tableau Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
+## 📊 Dashboard Overview
+
+This interactive Tableau dashboard summarizes mental health risk distribution, diagnosed vs. undiagnosed students, and high-risk subgroups by race and state.
+
+[🔗 View Full Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
+
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 With the increase of depression and anxiety among younger generation, early detection is important. This project analyzes self-reported mental health survey data (PHQ-9, GAD-7, ACHA Well-being, and self reported general health) from U.S. college students to classify risk levels and recommend intervention strategies. We focused on Generation Z students (born 1997–2012) and explored treatment gaps, high-risk populations, and racial/geographic disparities.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Excel
 - Python
 - Tableau Public
@@ -25,10 +32,10 @@ With the increase of depression and anxiety among younger generation, early dete
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 - Cleaned and transformed survey data (581 rows × 129 columns)
-- Focused on Gen Z respondents
+- Focused on Gen Z students
 - Converted categorical variables to numerical
 - Created composite scores for PHQ-9, GAD-7
 - Labeled risk levels (Low / Moderate / High)
@@ -37,11 +44,14 @@ With the increase of depression and anxiety among younger generation, early dete
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 - **69.33%** of students were undiagnosed, highlighting a gap in mental health services.
 - Over **50%** of students were in the Moderate to High Risk category.
 - Emotional indicators like **“Felt very sad”** and **“Felt too depressed to function”** were strong predictors of high risk.
+
+![XGBoost Feature Importance](images/feature_importance.png)
+
 - **Racial and state-level disparities** exist: Black students and those in urban states (CA, NY) were overrepresented in high-risk, untreated groups.
 - Many high-risk students **perceive themselves as healthy**, showing a self-awareness gap.
 
