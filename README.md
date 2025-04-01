@@ -12,7 +12,7 @@ This interactive Tableau dashboard summarizes mental health risk distribution, d
 
 [🔗 View Full Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/MentalHealth_dashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ With the increase of depression and anxiety among younger generation, early dete
 - Over **50%** of students were in the Moderate to High Risk category.
 - Emotional indicators like **“Felt very sad”** and **“Felt too depressed to function”** were strong predictors of high risk.
 
-![XGBoost Feature Importance](images/feature_importance.png)
+![XGBoost Feature Importance](images/top5_feature_importance.png)
 
 - **Racial and state-level disparities** exist: Black students and those in urban states (CA, NY) were overrepresented in high-risk, untreated groups.
 - Many high-risk students **perceive themselves as healthy**, showing a self-awareness gap.
