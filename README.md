@@ -52,7 +52,7 @@ With the increase of depression and anxiety among younger generation, early dete
 
 ![XGBoost Feature Importance](images/top5_feature_importance.png)
 
-- **Racial and state-level disparities** exist: Black students and those in urban states (CA, NY) were overrepresented in high-risk, untreated groups.
+- **Racial and state-level disparities** exist: Black students and those in urban states were overrepresented in high-risk, untreated groups.
 
 ![High-Risk Students by State](images/highrisk_notreat_state.png)
 ![High-Risk Students by Race](images/highrisk_notreat_race.png)
@@ -61,9 +61,6 @@ With the increase of depression and anxiety among younger generation, early dete
 
 ---
 
-## Intervention Recommendations
-
-To bridge this gap, universities should consider expanding virtual counseling, training faculty to identify at-risk students, and providing culturally sensitive mental health programs to reduce access disparities.
 ## Intervention Recommendations
 
 Based on our findings, universities should take the following actions to bridge gaps in mental health access:
