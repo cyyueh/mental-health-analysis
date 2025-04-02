@@ -4,8 +4,8 @@ Student Mental Health Risk Analysis Project (DSC510)
 # Mental Health Risk Analysis for University Students
 
 This project analyzes mental health risk among Gen Z university students using survey data, with the goal of identifying undiagnosed high-risk individuals and improving access to treatment through data-driven insights and interventions.
-
-**Dashboard Link:** [View Interactive Tableau Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
+**Notebook Link:** [View My Notebook in Google Colab](https://colab.research.google.com/drive/你的連結ID)
+**Dashboard Link:** [View Tableau Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
 ## Dashboard Overview
 
 This interactive Tableau dashboard summarizes mental health risk distribution, diagnosed vs. undiagnosed students, and high-risk subgroups by race and state.
@@ -74,8 +74,12 @@ Based on our findings, universities should take the following actions to bridge 
 
 ## Files
 - `notebooks/`: Jupyter Notebook with data cleaning and model training
-- `images/`: Key graphs and dashboard screenshots
-- `report.pdf`: Final project report (full context and methodology)
+- [Colab Notebook](https://colab.research.google.com/drive/你的連結ID): Contains data cleaning, PHQ-9 / GAD-7 scoring logic, risk labeling, and XGBoost modeling steps.
+- [Tableau Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW): Interactive dashboard visualizing risk levels, treatment status, and demographic disparities.
+- `data/Mental_Health_Survey_cleaned.csv`: Cleaned dataset used for modeling and dashboard visualizations
+- `data/Mental_Health_Survey_raw.csv`: Original raw dataset downloaded from openICPSR, containing full survey responses before preprocessing
+- `images/`: Key graphs and dashboard screenshots used in this README
+- `Project_Report.pdf`: Final project report providing full context, literature background, methodology, key findings, and proposed interventions
 
 ---
 
