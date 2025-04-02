@@ -86,8 +86,7 @@ Based on our findings, universities should take the following actions to bridge 
 - `notebooks/`: Jupyter Notebook with data cleaning and model training
 - [Colab Notebook](https://colab.research.google.com/drive/你的連結ID): Contains data cleaning, PHQ-9 / GAD-7 scoring logic, risk labeling, and XGBoost modeling steps.
 - [Tableau Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW): Interactive dashboard visualizing risk levels, treatment status, and demographic disparities.
-- `data/Mental_Health_Survey_cleaned.csv`: Cleaned dataset used for modeling and dashboard visualizations
-- `data/Mental_Health_Survey_raw.csv`: Original raw dataset downloaded from openICPSR, containing full survey responses before preprocessing
+- `data/`: Cleaned dataset used for modeling and dashboard visualizations, and original raw dataset downloaded from openICPSR, containing full survey responses before preprocessing
 - `images/`: Key graphs and dashboard screenshots used in this README
 - `Project_Report.pdf`: Final project report providing full context, literature background, methodology, key findings, and proposed interventions
 
