@@ -6,13 +6,12 @@ Student Mental Health Risk Analysis Project (DSC510)
 This project analyzes mental health risk among Gen Z university students using survey data, with the goal of identifying undiagnosed high-risk individuals and improving access to treatment through data-driven insights and interventions.
 
 **Notebook Link:** [View Colab Notebook](https://colab.research.google.com/drive/你的連結ID)
+
 **Dashboard Link:** [View Tableau Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
 
 ## Dashboard Overview
 
 This interactive Tableau dashboard summarizes mental health risk distribution, diagnosed vs. undiagnosed students, and high-risk subgroups by race and state.
-
-[🔗 View Full Dashboard](https://public.tableau.com/views/dsc510_draft/Finalized?:language=zh-TW)
 
 ![Dashboard Preview](images/MentalHealth_dashboard.png)
 
